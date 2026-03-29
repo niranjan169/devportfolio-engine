@@ -1,0 +1,23 @@
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.8;
+    color: #1a1a1a;
+    max-width: 700px;
+    margin: 80px auto;
+    padding: 0 20px;
+    background-color: #fff;
+}
+
+h1 { font-size: 2.5em; font-weight: normal; margin-bottom: 1em; text-align: center; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+h2 { font-size: 1.5em; text-transform: uppercase; letter-spacing: 1px; margin-top: 2em; color: #444; }
+h3 { font-size: 1.2em; color: #666; }
+
+p { margin-bottom: 1.5em; }
+
+ul, ol { margin-bottom: 1.5em; }
+
+a { color: #000; text-decoration: underline; }
+a:hover { color: #666; }
+
+pre { background: #fdfdfd; border: 1px solid #eee; padding: 15px; font-size: 0.9em; }
+code { font-family: monospace; background: #f7f7f7; padding: 2px 4px; }
